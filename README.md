@@ -2,7 +2,7 @@ Stig-scripts - Latest Patching Script
 
 ## Overview
 
-This repository contains a PowerShell script designed to automate the silent installation of McAfee Endpoint Security Threat Prevention using a preinstalled package. The script performs the following steps:
+This repository contains a PowerShell script designed to automate the silent installation of existing applications using a preinstalled package. The script performs the following steps:
 
 1. Verifies the presence of the installer at a specified path
 2. Executes a silent installation
